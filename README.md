@@ -1,5 +1,5 @@
 # React Notes
-Simple iOS inspired Notes app. Create a new note, edit and delete existing and watch your changes be instantly updated in your browser.
+Simple iOS inspired Notes app. Create a new note, edit and delete existing notes and watch your changes be instantly updated in your browser.
 Serves and stores notes in included JSON server module.
 
 ![Alt Text](https://github.com/GGyll/React-Notes/blob/main/demo.gif)
